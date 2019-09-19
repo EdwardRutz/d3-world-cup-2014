@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/EdwardRutz/d3-world-cup-2014/blob/gh-pages/images/wip-300.png"
     width="50" height="50">
-  <em>~ WIP ~</em>
+  <p>~ WIP ~</p>
 </div>
 
 

@@ -1,6 +1,6 @@
 # Data Driven Design and Interaction
 
-<figure style="display:block; margin: auto">
+<figure align="center">
   <img src="https://github.com/EdwardRutz/d3-world-cup-2014/blob/gh-pages/images/wip-300.png"
     width="50" height="50">
   <figcaption>~ WIP ~</figcaption>

@@ -2,7 +2,7 @@
 
 > Using 2014 Worldcup data to create interactive and dynamic visualizations
 - Use interactive and dynamic methods to provide access to the data. 
-
+- Site [demo](https://edwardrutz.github.io/d3-world-cup-2014/)
 
 
 ## Dependencies

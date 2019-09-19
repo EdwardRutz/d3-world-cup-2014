@@ -1,7 +1,7 @@
 # Data Driven Design and Interaction
 
 <div align="center">
-  < src="https://github.com/EdwardRutz/d3-world-cup-2014/blob/gh-pages/images/wip-300.png"
+  <img src="https://github.com/EdwardRutz/d3-world-cup-2014/blob/gh-pages/images/wip-300.png"
     width="50" height="50">
   <em>~ WIP ~</em>
 </div>

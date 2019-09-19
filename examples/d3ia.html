@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+
+  <meta charset="UTF-8">
+  <title>D3 and the DOM</title>
+  <script src="../libraries/d3.v4.min.js"></script>
+</head>
+<body>
+
+  <div id="someDiv" style="width:200px;height:100px;border:black 1px solid;">
+    <input id="someCheckbox" type="checkbox" />
+  </div>
+  <script>
+      d3.select("#someDiv").style("border", "5px darkgray dashed");
+      d3.select("#someDiv").attr("id", "newID");
+      d3.select("#someCheckbox").property("checked", true);
+  </script>
+</body>
+</html>

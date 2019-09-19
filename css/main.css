@@ -1,0 +1,29 @@
+
+
+.wrapper {
+    margin: auto;
+    width: 40%;
+    /*height: 60%;*/
+    /*padding: 10px;*/
+    /*box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+}
+
+text {
+    font-size: 10px;
+    text-anchor: middle;
+    fill: #4f442b;
+}
+g > text.active {
+    font-size: 30px;
+}
+circle {
+    fill: #75739F;
+    stroke: black;
+    stroke-width: 1px;
+}
+circle.active {
+    fill: #FE9922;
+}
+circle.inactive {
+    fill: #C4B9AC;
+}

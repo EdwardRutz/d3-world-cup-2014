@@ -1,0 +1,48 @@
+<html>
+<head>
+  <title>D3 in Action Examples</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link type="text/css" rel="stylesheet" href="css/main.css" />
+
+<!--  Bootstrap 4 Style Sheets -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+  <script src="libraries/d3.v4.min.js"></script>
+    <!--  <script src="https://d3js.org/d3.v4.min.js"></script>-->
+  <script src="libraries/colorbrewer.js"></script>
+  <script src="soccerviz.js"></script>
+</head>
+
+<body onload="createSoccerViz()">
+
+<!--  JUMBOTRON -->
+  <div class="jumbotron text-center" style="margin-bottom:0">
+    <h1>Data Driven Documents in Action</h1>
+    <h3>World Cup 2014!</h3>
+  </div>
+
+<!-- NAV BAR -->
+  <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+    <a class="navbar-brand" href="#"></a>
+    <div class="collapse navbar-collapse" id="collapsibleNavbar">
+    </div>
+  </nav>
+
+
+
+  <div class="container text-center">
+    <div id="viz">
+      <svg style="width:500px;height:500px; position: relative; margin:auto;" />
+    </div>
+
+    <div id="controls"></div>
+  </div>
+
+<!--  FOOTER -->
+  <div class="jumbotron text-center" style="margin-bottom:0">
+    <p>Business Enterprise Modernization</p>
+  </div>
+</body>
+</html>

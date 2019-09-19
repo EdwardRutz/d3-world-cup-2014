@@ -2,7 +2,7 @@
 
 ~ WIP ~
 <div>
-  <img src="./images/wip300.png">
+  <img src="https://github.com/EdwardRutz/d3-world-cup-2014/blob/gh-pages/images/wip-300.png">
 </div>
 
 > Using 2014 Worldcup data to create interactive and dynamic visualizations

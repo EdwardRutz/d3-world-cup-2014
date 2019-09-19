@@ -1,5 +1,10 @@
 # Data Driven Design and Interaction
 
+~ WIP ~
+<div>
+  <img src="./images/wip300.png">
+</div>
+
 > Using 2014 Worldcup data to create interactive and dynamic visualizations
 - Use interactive and dynamic methods to provide access to the data. 
 - Site [demo](https://edwardrutz.github.io/d3-world-cup-2014/)
